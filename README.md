@@ -20,5 +20,5 @@ The wallhack feature grants players the ability to see enemies, friends, and cru
 
 Why should I choose Blox Fruits Speed Hub X Script over other exploits?
 Blox Fruits Speed Hub X Script offers a unique set of features, including automated farming, fruit picking, boss hunting, and a customizable menu, which sets it apart from other exploits.
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ahmadsgamer2/Dragon-Hub/main/Script-Execute.lua"))()
 
